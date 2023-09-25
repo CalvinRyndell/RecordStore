@@ -13,6 +13,9 @@ html, body {
     color: #efefef;
     background-image: url(bg.jpg);
     background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 
@@ -37,6 +40,8 @@ html, body {
     background-position: center;
     background-repeat: no-repeat;
     background-blend-mode: multiply;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 ul {
